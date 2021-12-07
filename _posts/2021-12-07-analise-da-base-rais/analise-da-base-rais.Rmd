@@ -1,5 +1,5 @@
 ---
-title: "Analise da base RAIS"
+title: "Análise da base RAIS"
 description: |
   Esse é meu primeiro post.
   .
@@ -12,13 +12,29 @@ output:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+Meu primeiro **projeto**
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Colocando link: [Google](www.google.com)
 
+## Lista 1
+- Beatriz
+    - Professora
+- Julio
+- Fernando
+- Tereza
+
+### Lista Numerada
+1. Beatriz
+    - Professora
+1. Julio
+1. Fernando
+1. Tereza
+
+## Imagens
+
+![IMAGEM DA WEB](https://scontent.fnat1-1.fna.fbcdn.net/v/t1.6435-9/123609531_416714279336163_6049648530996654574_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEY7ahzvnZX1XXCyesAWkkZYa55kNOVGVRhrnmQ05UZVLrBYyI1nhmjM1PM83a18xEXLrxi0PON_l2cASD93q0Y&_nc_ohc=OvD1PZF3W5wAX80TyKo&_nc_ht=scontent.fnat1-1.fna&oh=c71252f413be4cab0527b3e530b8ea10&oe=61D55422)
 

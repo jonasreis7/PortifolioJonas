@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2021-12-07-analise-da-base-rais/",
-    "title": "Analise da base RAIS",
+    "title": "Análise da base RAIS",
     "description": "Esse é meu primeiro post.\n.",
     "author": [
       {
@@ -11,9 +11,26 @@
     ],
     "date": "2021-12-07",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nMeu primeiro projeto\r\nColocando link: Google\r\nLista 1\r\nBeatriz\r\nProfessora\r\n\r\nJulio\r\nFernando\r\nTereza\r\nLista Numerada\r\nBeatriz\r\nProfessora\r\n\r\nJulio\r\nFernando\r\nTereza\r\nImagens\r\nIMAGEM DA WEB\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-07T15:26:24-03:00",
+    "last_modified": "2021-12-07T20:04:41-03:00",
     "input_file": "analise-da-base-rais.knit.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to meu_blog",
+    "description": "Welcome to our new blog, meu_blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-12-07",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-07T15:32:08-03:00",
+    "input_file": {}
   }
 ]
