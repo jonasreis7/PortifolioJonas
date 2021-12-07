@@ -1,7 +1,7 @@
 name: "."
-title: "Portfolio do Jonas"
+title: "meu_blog"
 description: |
-  Portfolio do Jonas
+  meu_blog
 output_dir: "docs"
 navbar:
   right:
