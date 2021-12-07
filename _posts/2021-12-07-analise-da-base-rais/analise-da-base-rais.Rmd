@@ -39,7 +39,24 @@ Colocando link: [Google](www.google.com)
 ![IMAGEM DA WEB](https://scontent.fnat1-1.fna.fbcdn.net/v/t1.6435-9/123609531_416714279336163_6049648530996654574_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEY7ahzvnZX1XXCyesAWkkZYa55kNOVGVRhrnmQ05UZVLrBYyI1nhmjM1PM83a18xEXLrxi0PON_l2cASD93q0Y&_nc_ohc=OvD1PZF3W5wAX80TyKo&_nc_ht=scontent.fnat1-1.fna&oh=c71252f413be4cab0527b3e530b8ea10&oe=61D55422)
 
 ## Código em R
-```{r}
+```{r message=FALSE, warning=FALSE}
 1+1
 ```
+
+Criamos um código
+
+## Mostrando tabelas
+```{r}
+
+
+knitr::kable(mtcars)
+
+```
+
+## Código em linha
+
+Hoje é dia `r Sys.Date()`
+
+
+
 
