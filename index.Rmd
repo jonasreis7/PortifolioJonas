@@ -1,5 +1,5 @@
 ---
-title: "meu_blog"
+title: "Blog do Jonas"
 site: distill::distill_website
 listing: posts
 ---
