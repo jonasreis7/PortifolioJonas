@@ -15,22 +15,5 @@
     "preview": {},
     "last_modified": "2021-12-07T22:08:46-03:00",
     "input_file": {}
-  },
-  {
-    "path": "posts/welcome/",
-    "title": "Welcome to meu_blog",
-    "description": "Welcome to our new blog, meu_blog. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2021-12-07",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-12-07T15:32:08-03:00",
-    "input_file": {}
   }
 ]
